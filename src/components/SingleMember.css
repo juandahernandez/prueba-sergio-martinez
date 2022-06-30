@@ -1,0 +1,9 @@
+.member-card {
+  border: 1px solid black;
+  border-radius: 5%;
+  margin: 10px;
+  padding: 20px;
+}
+.member-card img {
+  width: 200px;
+}
